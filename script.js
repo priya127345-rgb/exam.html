@@ -107,7 +107,7 @@ schoolPhotos.forEach((photo) => {
 
 // SETTINGS
 
-const PHOTO_DURATION = 5000;
+const PHOTO_DURATION = 4000;
 const BLACK_TRANSITION =10;
 
 
